@@ -1,0 +1,35 @@
+[
+  {
+    "id": "d1",
+    "name": "Common Cold",
+    "symptoms": ["sneezing", "runny nose", "sore throat", "cough"],
+    "severity": "Mild",
+    "description": "A viral infection of your upper respiratory tract.",
+    "treatment": "Rest, fluids, OTC pain relievers, decongestants if needed."
+  },
+  {
+    "id": "d2",
+    "name": "Influenza (Flu)",
+    "symptoms": ["fever", "chills", "body aches", "cough", "fatigue"],
+    "severity": "Moderate",
+    "description": "A contagious respiratory illness caused by influenza viruses.",
+    "treatment": "Antiviral drugs (if early), rest, fluids, symptomatic care."
+  },
+  {
+    "id": "d3",
+    "name": "Heart Attack",
+    "symptoms": ["chest pain", "shortness of breath", "sweating", "nausea"],
+    "severity": "Urgent",
+    "description": "A blockage of blood flow to the heart muscle.",
+    "treatment": "Call emergency services immediately. Provide aspirin if available."
+  },
+  {
+    "id": "d4",
+    "name": "Migraine",
+    "symptoms": ["throbbing headache", "nausea", "sensitivity to light", "visual disturbances"],
+    "severity": "Moderate",
+  "description": "A neurological condition characterized by intense headaches.",
+  "treatment": "Pain relievers, anti-nausea medications, rest in a dark room."
+}
+
+]
